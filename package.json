@@ -1,0 +1,32 @@
+{
+  "name": "grnt",
+  "version": "0.1.0",
+  "description": "grnt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantgeorge/grnt.git"
+  },
+  "keywords": [
+    "grnt"
+  ],
+  "author": "Grant George",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grantgeorge/grnt/issues"
+  },
+  "homepage": "https://github.com/grantgeorge/grnt#readme",
+  "engines": {
+    "node": "5.5.0"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
